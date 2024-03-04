@@ -1,7 +1,7 @@
 Personal Information
 
 Name: Thabo Jafta
-Date: 2024-03-04 (Please update this as needed)
+Date: 2024-03-04
 Current Role/Position: Software Development Student
 Field of Interest: Software Development, Web Development.
 
