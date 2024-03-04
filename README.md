@@ -12,10 +12,10 @@
 **Current skills and areas of expertise:**
 - HTML
 - CSS
-- JavaScript
 
 **Skills I need to develop or improve:**
 - Tailwind CSS
+- Javascript
 - CSS Grids
 - Flexbox
 
@@ -53,8 +53,8 @@ I am passionate about creating user-friendly and visually appealing web applicat
 
 ### Long-term Goals (3-5 years and beyond):
 
-- Secure a full-time position at a reputable company as an expert my field of work, be someone entry-level and intermediate level developers come to for advice.
-- Continuously learn and expand my skillset to stay updated with the latest software development trends and technologies and possibly take on a new technology like cloud computing/ DevOps.
+- Secure a full-time position at a reputable company as an expert in my field of work, be someone entry-level and intermediate level developers come to for advice.
+- Continuously learn and expand my skillset to stay updated with the latest software development trends and technologies and possibly take on a new technology like Cloud-Computing/ DevOps.
 
 - ## Part 4: Action Plan
 
