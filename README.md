@@ -12,12 +12,16 @@
 **Current skills and areas of expertise:**
 - HTML
 - CSS
+- Github
+- Git
+- Visual Studio Code IDE
 
 **Skills I need to develop or improve:**
 - Tailwind CSS
 - Javascript
 - CSS Grids
 - Flexbox
+- Command Prompt
 
 ### 2. Interests and Values:
 
@@ -64,7 +68,7 @@ I am passionate about creating user-friendly and visually appealing web applicat
 1. Pass my Codespace Academy and Scrimba certification with a distinction to give myself a competitive edge.
 2. Dedicate at least 40+ hours per week to studying the course material.
 3. Practice building small projects using Tailwind CSS to solidify my understanding.
-4. learn to manage my time effectively and efficiently by using applications such as Pomadora and Notion.
+4. learn to manage my time effectively and efficiently by using applications such as Pomodora and Notion.
 
 **Goal 2:**
 1. Choose a website template and framework.
